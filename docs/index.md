@@ -171,8 +171,6 @@ The review schema used in the dataset is shown below.
 
 ![Review Schema](images/review_schema.png)
 
-*(Schema from dataset documentation and presentation)* :contentReference[oaicite:0]{index=0}
-
 ---
 
 # Data Preprocessing
@@ -204,7 +202,6 @@ Example distribution:
 
 ![Manufacturer Distribution](images/manufacturer_distribution.png)
 
-*(Bar chart shown in the presentation)* :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -212,7 +209,7 @@ Example distribution:
 
 Multiple LLM models were evaluated. Model comparison is shown below.
 
-![Model Comparison](images/model_comparison.png) :contentReference[oaicite:2]{index=2}
+![Model Comparison](images/model_comparison.png)
 
 The final model selected:
 
@@ -254,7 +251,7 @@ Example output format:
 
 Prompt is shown below.
 
-![Aspect Extraction Example](images/prompt.png) :contentReference[oaicite:3]{index=3}
+![Aspect Extraction Example](images/prompt.png) 
 
 ---
 
@@ -272,7 +269,7 @@ Actual product aspects extracted from one review:
 
 Example from the presentation:
 
-![Score Calculation](images/aspect_extraction.png) :contentReference[oaicite:4]{index=4}
+![Score Calculation](images/aspect_extraction.png) 
 ---
 
 # Results
@@ -287,7 +284,7 @@ Scores were computed across three layers:
 
 Example visualization:
 
-![Perception Scores](images/perception_score.png) :contentReference[oaicite:5]{index=5}
+![Perception Scores](images/perception_score.png) 
 
 ---
 
@@ -332,7 +329,7 @@ Did brand perception change after the ban?
 
 Visualization from the presentation:
 
-![Huawei Ban Impact](images/ban.png) :contentReference[oaicite:7]{index=7}
+![Huawei Ban Impact](images/ban.png) 
 
 ---
 
